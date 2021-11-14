@@ -20,7 +20,7 @@ Hi there 👋 , I am Amar Khamkar.
  </p>
  
  <hr>
- <h4>Connect with me and follow me using <a href="https://linktr.ee/Amar02" >Linktree</a> </h4>
+ <h4>You can connect with me and also can follow me using my <a href="https://linktr.ee/Amar02" >Linktree</a> </h4>
  
 
 <br>
