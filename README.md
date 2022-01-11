@@ -2,7 +2,7 @@ Hi there 👋 , I am Amar Khamkar.
 <hr>
 <h3>So, I am an AI enthusiast and a GameDeveloper😁</h3>
 <li>My website <a href="calcont.in">CalConT</a> created using django have 20K+ traffic😎.</li><br>
-<li>We/<a href="https://www.instagram.com/aprendiz_studio_/">Aprendiz Studio</a> have created <a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.ARLAB">AR Lab</a> which basically an ar education based app.</li><br>
+<li>We/<a href="https://www.instagram.com/aprendiz_studio_/">Aprendiz Studio</a> have created <a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.ARLAB">AR Lab</a> which basically an ar education based app 🎇.</li><br>
 <li>Also,I have created few Games using UNITY Engine..🎮🎮</li><br>
 <li>Created ML/AI based projects you can check my repos..📂📂</li>
 <hr>
