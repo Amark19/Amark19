@@ -1,31 +1,30 @@
 <h1 align="center">Hi there 👋, I am Amar Khamkar</h1>
 <h3 align="center">An AI enthusiast and a GameDeveloper!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amark19&label=Profile%20views&color=0e75b6&style=flat" alt="Amar-Khamkar" /> </p>
-<li>My website <a href="calcont.in">CalConT</a> created using django have 20K+ traffic😎.</li><br>
-<li>We/<a href="https://www.instagram.com/aprendiz_studio_/">Aprendiz Studio</a> have created <a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.ARLAB">AR Lab</a> which basically an ar education based app 🎇.</li><br>
-<li>Also,I have created few Games using UNITY Engine..🎮🎮</li><br>
-<li>Created ML/AI based projects you can check my repos..📂📂</li>
-<hr>
-<h3 ">Besides that,</h3>
-<p>
+
+#### 🤔 Who Is Amar Khamkar ??
   
-- 💻 Currently in 3rd yr of Engineering...  
+- 💻 He is currently in 4th year and pursuing  Bachelors of Engineering from DR Dy patil's ramrao adik institue of technology...  
   
-- 🎮 I’m currently working on GameBased Project..
+- 🎮 He is working on machine learning Project..
   
-- 🌱 I’m currently exploring more in AI and learning Animation...
+- 🌱 He is exploring more in Augmented Reality,React.js and learning app developement using flutter...
   
-- 💬 You can ask me about GameDev & python...
+- 💬 You can ask him about GameDev & python...
   
   
  </p>
  
  <hr>
+ 
+ ### **My Portfolio**:
+
+<a href="https://siddhant-k-code.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 <h3 align="left">Connect with me</h3>
 <a href="https://www.linkedin.com/in/amar-khamkar-2710731a5/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amar-khamkar-2710731a5/" /></a>
 <a href="mailto:amarkhamkar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/aprendiz_studio_/" target="blank"><img  src="https://img.shields.io/badge/Aprendiz Studio-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/aprendiz_studio_/" /></a>
-<a href="https://www.reddit.com/user/not_interested_19" target="blank"><img  src="https://img.shields.io/badge/not_interested_19-db561d.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="not_interested_19" /></a>
+<a href="https://www.instagram.com/aprendiz_studio_/" target="blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/aprendiz_studio_/" /></a>
+<a href="https://www.reddit.com/user/not_interested_19" target="blank"><img  src="https://img.shields.io/badge/Reddit-db561d.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="not_interested_19" /></a>
  
 ### 🔭 **Technology Stack**
 
@@ -35,7 +34,8 @@
 
 #### **Frameworks, Platforms and Libraries**:
 
-<img height=23 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/unity-%23000.svg?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/blender-%23000.svg?style=for-the-badge&logo=blender&logoColor=white">
+<img height=23 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/flask-6f777e?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;<img height=23 
+src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/unity-%23000.svg?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/arfoundation-291ac1?style=for-the-badge&logo=arfoundation&logoColor=white">
 
 #### **Servers**:
 
