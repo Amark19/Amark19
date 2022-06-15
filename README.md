@@ -15,11 +15,10 @@
   
  </p>
  
- <hr>
- 
- ### **My Portfolio**:
+ ### **My Live Projects**:
 
-<a href="https://siddhant-k-code.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://www.calcont.in/"><img src="https://img.shields.io/badge/Calcont(15k+ traffic)-343434?style=for-the-badge&logo=webpage&logoColor=#FF7139"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.ARLAB"><img src="https://img.shields.io/badge/ARLab-9820a7?style=for-the-badge&logo=webpage&logoColor=#FF7139"/></a>
 <h3 align="left">Connect with me</h3>
 <a href="https://www.linkedin.com/in/amar-khamkar-2710731a5/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amar-khamkar-2710731a5/" /></a>
 <a href="mailto:amarkhamkar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -39,7 +38,7 @@ src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=
 
 #### **Servers**:
 
-<img height=23 src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+<img height=23 src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/apache-%232C5263.svg?style=for-the-badge&logo=apache&logoColor=white">
 
 ##### **Databases**:
 
