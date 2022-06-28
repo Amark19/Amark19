@@ -4,7 +4,7 @@
 
 #### 🤔 Who Is Amar Khamkar ??
   
-- 💻 He is currently in 4th year and pursuing  Bachelors of Engineering from DR Dy patil's ramrao adik institue of technology...  
+- 💻 He is currently in 4th year and pursuing  Bachelors of Engineering...  
   
 - 🎮 He is working on machine learning Project..
   
