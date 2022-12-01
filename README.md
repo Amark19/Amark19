@@ -61,7 +61,7 @@
 
 <img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sklearn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amark19&show_icons=true&locale=en&theme=dark&layout=compact" alt="Amark19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="Amark19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amark19&show_icons=true&layout=compact&locale=en&theme=dark" alt="Amark19" /></p>
 
