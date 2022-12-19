@@ -64,5 +64,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amark19&show_icons=true&layout=compact&locale=en&theme=tokyonight" alt="Amark19" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com?user=Amark19&theme=dark" alt="Amark19" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Amark19&bg_color=201d1f&color=c0e2b1&line=6dca73&point=87f82a&area=true&hide_border=true" alt="Amark19" /></p>
 <br>
