@@ -6,13 +6,13 @@
   
 - 💻 He is currently in 4th year and pursuing  Bachelors of Engineering...  
 
-- 📊 currently working at HackeRank (SDE intern)
+- 🎮 done a internship at HackerRank
+
+- 📊 currently learing new technologies
   
-- 🎮 He is working on machine learning Project..
+- 🌱 He is currently developing multiple applications using django,flutter & flutter...
   
-- 🌱 He is exploring more in Augmented Reality,React.js and learning app developement using flutter...
-  
-- 💬 You can ask him about GameDev & python...
+- 💬 You can ask him about GameDev, python & how to start with AR in unity...
   
   
  </p>
