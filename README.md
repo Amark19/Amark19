@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Amar Khamkar</h1>
-<h3 align="center">SOFTWARE & AR ENGINEER</h3>
+<h3 align="center">A SOFTWARE & AR ENGINEER</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amark19&label=Profile%20views&color=0e75b6&style=flat" alt="Amar-Khamkar" /> </p>
 
 #### 🤔 Who Is Amar Khamkar ??
