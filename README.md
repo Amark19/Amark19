@@ -4,13 +4,13 @@
 
 #### 🤔 Who Is Amar Khamkar ??
   
-- 💻 He is currently in 4th year and pursuing  Bachelors of Engineering...  
+- 💻 He is currently in 4th year and pursuing Bachelors of Engineering...  
 
-- 🎮 done a internship at HackerRank
+- 🎮 Ex sde intern at HackerRank
 
 - 📊 currently learing new technologies
   
-- 🌱 He is currently developing multiple applications using django,flutter & flutter...
+- 🌱 He is currently developing multiple applications using django,unity & flutter...
   
 - 💬 You can ask him about GameDev, python & how to start with AR in unity...
   
