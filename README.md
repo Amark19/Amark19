@@ -22,6 +22,8 @@
 <a href="https://www.calcont.in/"><img src="https://img.shields.io/badge/Calcont(15k+ traffic)-343434?style=for-the-badge&logo=webpage&logoColor=#FF7139"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.ARLAB"><img src="https://img.shields.io/badge/ARLab-9820a7?style=for-the-badge&logo=webpage&logoColor=#FF7139"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.monuverse"><img src="https://img.shields.io/badge/monuverse-004369?style=for-the-badge&logo=webpage&logoColor=#004369"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp"><img src="https://img.shields.io/badge/safewrite-e3b341?style=for-the-badge&logo=webpage&logoColor=#e3b341"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp"><img src="https://img.shields.io/badge/ARPuzzle-dca0ee?style=for-the-badge&logo=webpage&logoColor=#dca0ee"/></a>
 <h3 align="left">Connect with me</h3>
 <a href="https://www.linkedin.com/in/amar-khamkar-2710731a5/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amar-khamkar-2710731a5/" /></a>
 <a href="mailto:amarkhamkar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
