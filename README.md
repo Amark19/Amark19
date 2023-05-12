@@ -66,4 +66,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amark19&show_icons=true&layout=compact&locale=en&theme=tokyonight" alt="Amark19" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com?user=Amark19&theme=dark" alt="Amark19" /></p>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amark19&theme=xcode" alt="SAmark19  GitHub activity graph"/>
 <br>
