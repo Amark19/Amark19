@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [calcont](https://github.com/Amark19/calcont.in)
 
-- 👨‍💻 All of my projects are available at [github.com/Amark19](github.com/Amark19)
+- 👨‍💻 All of my projects are available at [github.com/Amark19](https://github.com/Amark19)
 
-- 📝 I regularly write articles on [blog.calcont.in](blog.calcont.in)
+- 📝 I regularly write articles on [blog.calcont.in](https://blog.calcont.in)
 
 - 💬 Ask me about **python,unity & AR**
 
