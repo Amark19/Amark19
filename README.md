@@ -1,21 +1,35 @@
-<h1 align="center">Hi there 👋, I am Amar Khamkar</h1>
-<h3 align="center">A SOFTWARE & AR ENGINEER</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amark19&label=Profile%20views&color=0e75b6&style=flat" alt="Amar-Khamkar" /> </p>
+<h1 align="center">Hi 👋, I'm Amar Khamkar</h1>
+<h3 align="center">A Software & AR Engineer !</h3>
 
-#### 🤔 Who Is Amar Khamkar ??
-  
-- 💻 He is currently in 4th year and pursuing Bachelors of Engineering...  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amark19&label=Profile%20views&color=0e75b6&style=flat" alt="amark19" /> </p>
 
-- 🎮 Ex sde intern at HackerRank
+- 🔭 I’m currently working on [Safe-Write](https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp)
 
-- 📊 currently learing new technologies
-  
-- 🌱 He is currently developing multiple applications using django,unity & flutter...
-  
-- 💬 You can ask him about GameDev, python & how to start with AR in unity...
-  
-  
- </p>
+- 🌱 I’m currently learning **more about flutter & system design**
+
+- 🤝 I’m looking for help with [calcont](https://github.com/Amark19/calcont.in)
+
+- 👨‍💻 All of my projects are available at [github.com/Amark19](github.com/Amark19)
+
+- 📝 I regularly write articles on [blog.calcont.in](blog.calcont.in)
+
+- 💬 Ask me about **python,unity & AR**
+
+- 📫 How to reach me **amar@amardev.tech**
+
+- 📄 Know about my experiences [https://amardev.tech/pictures/resumes/my-resume.pdf](https://amardev.tech/pictures/resumes/my-resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amarkhamkar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarkhamkar6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amar-khamkar-2710731a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amar-khamkar-2710731a5/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14283288/amar-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14283288/amar-k" height="30" width="40" /></a>
+<a href="https://hashnode.com/@amar1902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amar1902" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucx63zsuyupbikl2t54xj0ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucx63zsuyupbikl2t54xj0ug" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/amarkhamkar_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amarkhamkar_22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/amarkhamkar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amarkhamkar6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/amarkhamkar06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amarkhamkar06/" height="30" width="40" /></a>
+</p>
  
  ### **Some Live Projects**
 
@@ -24,11 +38,6 @@
 <a href="https://play.google.com/store/apps/details?id=com.aprendizstudio.monuverse"><img src="https://img.shields.io/badge/monuverse-004369?style=for-the-badge&logo=webpage&logoColor=#004369"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp"><img src="https://img.shields.io/badge/safewrite-e3b341?style=for-the-badge&logo=webpage&logoColor=#e3b341"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp"><img src="https://img.shields.io/badge/ARPuzzle-dca0ee?style=for-the-badge&logo=webpage&logoColor=#dca0ee"/></a>
-<h3 align="left">Connect with me</h3>
-<a href="https://www.linkedin.com/in/amar-khamkar-2710731a5/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/amar-khamkar-2710731a5/" /></a>
-<a href="mailto:amarkhamkar6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/aprendiz_studio_/" target="blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/aprendiz_studio_/" /></a>
-<a href="https://www.reddit.com/user/not_interested_19" target="blank"><img  src="https://img.shields.io/badge/Reddit-db561d.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="not_interested_19" /></a>
  
 ### 🔭 **Technology Stack**
 
@@ -61,10 +70,11 @@
 
 #### **ML/DL**:
 
-<img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sklearn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img height=23 src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sklearn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amark19&show_icons=true&layout=compact&locale=en&theme=tokyonight" alt="Amark19" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=Amark19&theme=dark" alt="Amark19" /></p>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amark19&theme=xcode" alt="SAmark19  GitHub activity graph"/>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amark19&show_icons=true&locale=en&layout=compact&theme=dark" alt="amark19" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amark19&show_icons=true&locale=en&theme=dark" alt="amark19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amark19&theme=dark" alt="amark19" /></p>
