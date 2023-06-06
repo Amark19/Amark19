@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [blog.calcont.in](https://blog.calcont.in)
 
-- 💬 Ask me about **python,unity & AR**
+- 💬 Ask me about **python,flutter,unity & AR**
 
 - 📫 How to reach me **amar@amardev.tech**
 
