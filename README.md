@@ -59,6 +59,7 @@
 ##### **Databases**:
 
 <img height=23 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;&nbsp;<img height=23 src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=#00C7B7)">&nbsp;&nbsp;
+<img height=23 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 
 #### **Hosting/SaaS**:
 
