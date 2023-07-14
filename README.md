@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amark19&label=Profile%20views&color=0e75b6&style=flat" alt="amark19" /> </p>
 
-- 🔭 I’m currently working on [Safe-Write](https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp) & [LinkBook](https://linkbook.amardev.tech)
+- 🔭 I’m currently working on [Safe-Write](https://play.google.com/store/apps/details?id=com.ARmarstudio.notesapp) .
 
 - 🌱 I’m currently learning **more about flutter & system design**
 
