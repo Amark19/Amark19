@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amar@amardev.tech**
 
-- 📄 Know about my experiences [https://amardev.tech/pictures/resumes/my-resume.pdf](https://amardev.tech/pictures/resumes/my-resume.pdf)
+- 📄 Know about my experiences [Resume](https://amardev.tech/pictures/resumes/my-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
