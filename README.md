@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python,flutter,unity & AR**
 
-- 📫 How to reach me **amar@amardev.tech**
+- 📫 How to reach me **contact@amarkhamkar.com**
 
 - 📄 Know about my experiences [Resume](https://amardev.tech/pictures/resumes/my-resume.pdf)
 
