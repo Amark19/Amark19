@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@amarkhamkar.com**
 
-- 📄 Know about my experiences [Resume](https://amardev.tech/pictures/resumes/my-resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mBnUMsRL8yV4_Hp21Jx1PJ_wnV_U1rpk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
