@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amark19&label=Profile%20views&color=0e75b6&style=flat" alt="amark19" /> </p>
 
-- 🔭 I’m currently working on improving my personal projects.
+- 🔭 I’m currently developing https://drop.calcont.in.
 
 - 🌱 I’m currently learning **more about backend engineering & system design**
 
@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Amark19](https://github.com/Amark19)
 
-- 📝 I regularly write articles on [blog.amarkhamkar.com](https://blog.amarkhamkar.com)
+- 📝 I sometimes write articles on [blog.amarkhamkar.com](https://blog.amarkhamkar.com)
 
 - 💬 Ask me about **python, nodejs, flutter, backend engineering,unity & AR**
 
 - 📫 How to reach me **contact@amarkhamkar.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SZHwhZXcXkAli5Wvjhry2fyRcKjf-vDC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
