@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Amark19](https://github.com/Amark19)
 
-- 📝 I sometimes write articles on [blog.amarkhamkar.com](https://blog.amarkhamkar.com)
+- 📝 I sometimes write articles on [blog](https://blog-amarkhamkar-com.pages.dev/)
 
 - 💬 Ask me about **python, nodejs, flutter, backend engineering,unity & AR**
 
